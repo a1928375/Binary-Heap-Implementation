@@ -11,13 +11,13 @@ The basic operations we will implement for our binary heap are as follows:
 
     (iii) findMin() returns the item with the minimum key value, leaving item in the heap.
 
-    (d) delMin() returns the item with the minimum key value, removing the item from the heap.
+    (iv) delMin() returns the item with the minimum key value, removing the item from the heap.
 
-    (e) isEmpty() returns true if the heap is empty, false otherwise.
+    (v) isEmpty() returns true if the heap is empty, false otherwise.
 
-    (f) size() returns the number of items in the heap.
+    (vi) size() returns the number of items in the heap.
 
-    (g) buildHeap(list) builds a new heap from a list of keys.
+    (vii) buildHeap(list) builds a new heap from a list of keys.
 
 (2) Implement a binary tree with list
 A representation of a Tree using a list of lists.
