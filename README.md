@@ -5,11 +5,11 @@
 Binary Heap Operations
 The basic operations we will implement for our binary heap are as follows:
 
-    (a) BinaryHeap() creates a new, empty, binary heap.
+    (i) BinaryHeap() creates a new, empty, binary heap.
 
-    (b) insert(k) adds a new item to the heap.
+    (ii) insert(k) adds a new item to the heap.
 
-    (c) findMin() returns the item with the minimum key value, leaving item in the heap.
+    (iii) findMin() returns the item with the minimum key value, leaving item in the heap.
 
     (d) delMin() returns the item with the minimum key value, removing the item from the heap.
 
